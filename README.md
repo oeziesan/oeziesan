@@ -15,5 +15,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oeziesan/oeziesan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oeziesan/oeziesan/output/pacman-contribution-graph.svg">
 </picture>
-
-###
