@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/spy-x-family9171/images/1/1e/Rising_Hope_Anime.gif/revision/latest?cb=20231202183818" alt="GIF" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGu4B3zJeQvzW_puGWzAw01mL2rVuImv64Uw&s" alt="GIF" />
 </div>
 
 
