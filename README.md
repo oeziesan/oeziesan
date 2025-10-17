@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://tenor.com/bZuSr.gif" alt="GIF" />
+  <img src="https://media1.tenor.com/m/zd-8j_PzYjEAAAAd/bocchi-the-rock-hitori-gotou.gif" alt="GIF" />
 </div>
 
 
