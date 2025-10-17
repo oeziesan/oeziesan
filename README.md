@@ -1,11 +1,11 @@
 ## Hello, I'm Fauzi Abdullah!
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d7a1a74c-761f-46a5-b7d8-60c6a9306f51" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d7a1a74c-761f-46a5-b7d8-60c6a9306f51"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZtbHdjbmdmMmRvcmF3NnAzdmRxa2twMGJ6dHkxMWplaHBrdjZ6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8v6MRmBnqgjjejfbQv/giphy.gif" alt="GIF" />
 </div>
 
-- 🔭 I’m currently studying on [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) 
+- 🔭 I’m currently studying at [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) 
 - 🌱 I’m currently learning Network Engineering & Machine Learning
 
 ### Skills :
