@@ -1,7 +1,7 @@
 ## Hello, I'm Fauzi Abdullah!
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d7a1a74c-761f-46a5-b7d8-60c6a9306f51" />
 
-- 🔭 I’m currently studying on [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) <img width="50" height="50" alt="polban" src="https://www.polban.ac.id/wp-content/uploads/2018/06/logo-polban-80.png"/>
+- 🔭 I’m currently studying on [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) <img width="15" height="30" alt="polban" src="https://www.polban.ac.id/wp-content/uploads/2018/06/logo-polban-80.png"/>
 - 🌱 I’m currently learning Network Engineering & Machine Learning
 
 ### Skills :
