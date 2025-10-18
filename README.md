@@ -3,7 +3,7 @@
 ---
 
 ## Hello, I'm Fauzi Abdullah!
-### I'm an Network Engineer, Connecting the data all over the world.
+#### Still under development...
 
 ---
 
