@@ -7,8 +7,8 @@
 
 ---
 
-- >/ I’m currently studying at [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) 
-- >/ 🌱 I’m currently learning Network Engineering & Machine Learning
+> I’m currently studying at [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/) 
+> 🌱 I’m currently learning Network Engineering & Machine Learning
 
 ---
 
