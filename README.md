@@ -4,13 +4,10 @@
 ---
 
 ## Hello, I'm Fauzi Abdullah!
-#### Still under development...
 
 ---
 
 > I’m currently studying at [Politeknik Negeri Bandung](https://www.instagram.com/politekniknegeribandung/)
-
-> I’m currently learning nothing hehe
 
 ---
 
